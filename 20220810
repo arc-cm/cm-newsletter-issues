@@ -1,0 +1,201 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+
+<body>
+    <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    </div>
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;"> 
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        <a href="https://www.codementor.io?ref=newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - August 3, 2022<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">TOGETHER WITH
+        </p>
+         <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/b680c4df66e6239317a68fa4e685bdae2d4ab982fcfea7cdb51deaaad8d37b563d2de17c247e410960b0c7f17ffab26f7154c0b71db8bd8165a47a2866ce4208.png" height="20" alt="Chartr" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p>
+        
+        
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> If you want to stay up-to-date on the latest developer technology, then you can't miss the  <a style="color: #009FC6;" href="https://devinnovationsummit.com/">Dev Innovation Summit</a>.<br>
+        </p>
+                </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Want to learn something new? </h2>
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">Here are some free virtual events that are coming up soon. Sign up even if you can't make it to the live event; we'll send the recording after.<br><br>
+
+          
+          <b>🗓 August 3: <a style="color: #009FC6;" href="https://www.codementor.io/events/kubernetes-101-etqkg94vx9?ref=newsletter">Kubernetes 101</a></b><br>Everyone talks about Kubernetes. You've probably heard about it too.  Yes, Kubernetes is popular, and there isn't a better time to learn what it is and how this technology makes everything run smoothly for developers.
+          <br><br>
+          
+          <b>🗓 August 10: <a style="color: #009FC6;" href="https://www.codementor.io/events/fallacies-of-distributed-systems-ey6v7izhr2?ref=newsletter">Fallacies of Distributed Systems and How to Avoid Them</a></b><br> 
+          To ensure your system is reliable and scalable, you must understand its potential pitfalls. Join us to learn how to avoid them in your projects.
+          <br><br>
+          
+          <b>🗓 August 16: <a style="color: #009FC6;" href="https://www.codementor.io/events/graph-databases-ez6gydjwjl?ref=newsletter">Graph Databases - Solving Problems with Connected Data</a></b><br>Graph databases are becoming an increasingly popular way to handle data. Learning how to use them is essential for any developer working with big data sets.
+          <br>
+          
+        </p>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+             
+      </div>
+      
+      <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://www.codementor.io/events/upcoming?ref=newsletter" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/b680c4df66e6239317a68fa4e685bdae2d4ab982fcfea7cdb51deaaad8d37b563d2de17c247e410960b0c7f17ffab26f7154c0b71db8bd8165a47a2866ce4208.png" height="30" alt="Chartr" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      <div class="post" style="margin-bottom:20px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">Get smarter in conversation with the #1 visual newsletter from our friends at Chartr. Join 200,000+ who love snackable charts and easy-to-remember data insights on business, tech, entertainment and society.
+        <br>
+        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i>Sign up for free → </i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's standout posts</h2>
+    
+      <div class="post" style="margin-bottom:20px;">
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💻 Code: <a style="color: #009FC6;" href="https://www.codementor.io/@minhaz/optimizations-beyond-the-big-o-performance-tricks-i-learned-at-google-1v68chdjpw?ref=newsletter"> Optimizations Beyond the Big O — Performance Tricks I Learned at Google
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Improve performance beyond the boundaries of Big O notation.
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💻 iOS: <a style="color: #009FC6;" href="https://www.codementor.io/@aliviadavis/getting-started-with-ios-application-modularization-1vm5st4mch?ref=newsletter"> Getting started with iOS Application Modularization
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Building a new iOS app? Modularize your code to make your app more flexible and easier to maintain.
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💻 Front-end: <a style="color: #009FC6;" href="https://arc.dev/developer-blog/front-end-developer-job-boards/?utm_source=sendgrid&utm_medium=email&utm_campaign=cm-newsletter&utm_content=20220803">14 Great Front-end Job Boards & Websites for F/E Developers
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Looking for your first job or a new opportunity?  These Front-end job boards are updated frequently with fresh leads.</p>
+      </div>
+        
+
+
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=newsletter" title="Let me share this whole new world with you" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://links.swapstack.co/fau" title="Chartr">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:30px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/b680c4df66e6239317a68fa4e685bdae2d4ab982fcfea7cdb51deaaad8d37b563d2de17c247e410960b0c7f17ffab26f7154c0b71db8bd8165a47a2866ce4208.png" height="30" alt="Chartr" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Join 200,000+ who love snackable charts and easy-to-remember data insights on business, tech, entertainment and society.  <span style="color: #009FC6; text-decoration:none;">Sign up for free.</span></p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.paved.com/sites/codementor">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+            </div>
+          </div>
+          </div>
+          </body>
+        </html>  
