@@ -1,0 +1,203 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+
+<body>
+    <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    </div>
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;"> 
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        <a href="https://www.codementor.io?ref=newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - August 17, 2022<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">TOGETHER WITH
+        </p>
+         <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/3719a508a6a5562b382fda5e6fd59100d72c2dd1bb5a164dbca31a05880bd2f21163bbc2b6f3c956cfda4363a2a4c89abb7d31c41fb42f8475ea31f986891320.png" height="40" alt="Chartr" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p>
+        
+        
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> If you want to get advice on navigating the job market as a dev amid economic downturn, then you can't miss our upcoming <a style="color: #009FC6;" href="https://www.codementor.io/events/hiring-for-tech-jobs-amid-recession-fears-f3gjf5mxge?ref=newsletter">Expert Interview</a>.<br>
+        </p>
+                </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Want to learn something new? </h2>
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">Here are some free virtual events that are coming up soon. Sign up even if you can't make it to the live event; we'll send the recording after.<br><br>
+
+          
+          <b>🗓 August 17: <a style="color: #009FC6;" href="https://www.codementor.io/events/documentation-is-broken-code-coupled-docs-for-modern-systems-eu9mj02eab?ref=newsletter">Documentation: Code-Coupled Docs for Modern Systems</a></b><br>Find a new way of thinking about documentation that's easy to maintain, updates with code changes automatically, or flags for human intervention.
+          <br><br>
+          
+          <b>🗓 August 18: <a style="color: #009FC6;" href="https://www.codementor.io/events/a-design-system-story-f0phtg20kx?ref=newsletter">A Design System Story</a></b><br> 
+         What are design systems and why should you care? Discover what the fuss is all about in this practical session using Storybook.
+          <br><br>
+          
+          <b>🗓 August 22: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-to-set-up-a-threejs-scene-f05yeyu8mt?ref=newsletter">How to Set Up a Three.js Scene with Huge Potential</a></b><br>Jump into a fully-interactive Three.js scene where you’ll set up a successful boilerplate with no friction. Want more? Preview advanced topics and become an expert.
+          <br><br>
+          
+          <b>🗓 August 23: <a style="color: #009FC6;" href="https://www.codementor.io/events/hands-on-rust-live-coding-session-expsh36to0?ref=newsletter">Hands-on Rust Live Coding Session</a></b><br>Taking your first steps in Rust? This talk is for you! Join this live coding session where you’ll be using Rustlings Excercises to code your way.
+          <br><br>
+          
+          <b>🗓 August 25: <a style="color: #009FC6;" href="https://www.codementor.io/events/hiring-for-tech-jobs-amid-recession-fears-f3gjf5mxge?ref=newsletter">Expert Interview: Hiring for Tech Jobs amid Recession Fears ⭐️</a></b><br>Don’t let a potential recession get in the way of your career. Ryan Choi, Director at YC Combinator, tells you how to look for your next dev role in an exclusive interview.
+          <br><br>
+          
+        </p>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+             
+      </div>
+      
+      <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://vpdae.com/redirect/rvfngom9o3rgcsto2jurpfe9tsx" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/3719a508a6a5562b382fda5e6fd59100d72c2dd1bb5a164dbca31a05880bd2f21163bbc2b6f3c956cfda4363a2a4c89abb7d31c41fb42f8475ea31f986891320.png" height="50" alt="Segment" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      <div class="post" style="margin-bottom:20px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">Segment is an API-first analytics solution that empowers 15k+ startups to scale their data infrastructure. And it's now free for Startups!
+        <br>
+        <img src='https://www.vpdae.com/open/4376.gif?opens=1' width='1' height='1'>
+        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i>Get access today → </i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's standout posts</h2>
+    
+      <div class="post" style="margin-bottom:20px;">
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💻 WordPress: <a style="color: #009FC6;" href="https://www.codementor.io/@lanamiro828/4-best-wordpress-dynamic-content-tools-1w92qt08lm?ref=newsletter"> 4 Best WordPress Dynamic Content Tools
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Creating dynamic websites is easier than ever thanks to these plugins.
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💻 React: <a style="color: #009FC6;" href="https://www.codementor.io/@gauravdgr81codementor/the-usestate-hook-a-comprehensive-guide-1w5d2830bm?ref=newsletter"> The useState hook - A comprehensive guide
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Why do you need a state in React and how a useState can help perfect it?
+</p>
+      </div>
+      
+      </p>
+      </div>
+        
+
+
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=newsletter" title="Let me share this whole new world with you" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://www.codementor.io/" title="Codementor">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:20px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/db1898253eff67d16a982142fc69a115673be0f85aaaa2761f6cce1f2f03d6e0681c3a5ee4a2851f381fcd8f80800a0b08f4409178b01e601ede010b35aab4a2.png" height="30" alt="Codementor" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Where you can get <span style="color: #009FC6; text-decoration:none;"> instant coding help, learn programming by building projects</span>, and get your <span style="color: #009FC6; text-decoration:none;">code reviewed</span>.</p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.paved.com/sites/codementor">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+            </div>
+          </div>
+          </div>
+          </body>
+        </html>  
