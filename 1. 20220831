@@ -1,0 +1,285 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+
+<body>
+    <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    </div>
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;"> 
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        
+        <a href="https://www.codementor.io?ref=newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">Hear from a software engineer at Microsoft about how to improve your tech journey with side projects.</span>
+        
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - August 31, 2022<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">TOGETHER WITH
+        </p>
+        
+        <a href="https://vpdae.com/redirect/3mi3kqnrz1cozjp37zxxvj5du1j" target="_blank" style="margin:0; text-decoration:none;" > 
+          
+         <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/16616f91bd641058981fffcf6da6cd4e1ad61b3b66d72ae9ecd61d0053ff156c741cb00d1a55e81e457fb06a824e327b804af6fa17bd6e14d7c4df9d4a1f37cd.png" height="60" alt="Morning Brew" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+         
+         </a>
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p><br>
+        
+    
+        
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> Curious about how AI is transforming the way we work, learn, and play? Then you won’t want to miss NVIDIA GTC 2022, the #1 AI developer conference.
+
+
+        
+        <br><br> 
+
+        GTC 2022 will be hosting some of the world's most influential voices in tech. You'll hear the latest trends shaping the future, including talks on deep learning, AI-based cybersecurity, data science, and accelerated computing.  
+ 
+
+        <br><br>
+        <a style="color: #009FC6;" href="https://nvda.ws/3BaJp5K"> Get your ticket today.</a>
+        
+        <br><br>
+        
+        <i>Codementor and Arc are proud to be media sponsors for NVIDIA GTC 2022. </i>
+
+
+
+        </p>
+        
+    
+      </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Want to learn something new? </h2>
+      
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">Get insights from Techstars' CEO to grow your team amidst layoffs or learn from a software engineer at Microsoft how to take your career to the next level with side projects in web and game development.
+        
+          <br><br>
+          These are just some free online events that are coming up soon on Codementor. Can’t make it? You can still sign up and receive the recording after.
+          
+          <br><br>
+          
+          <b>🗓 September 6: <a style="color: #009FC6;" href="https://www.codementor.io/events/vuex-implementation-in-a-vuejs-application-f1z0peobg2?ref=cm-newsletter">Intro to Vuex Implementation in a Vue.js Application</a>
+          
+          </b>
+          
+          <br>
+
+        If you're looking to learn how use Vuex, this is your chance. Learn from JohnKingsley, software engineer at Fidelity Bank PLC himself as he shares his experience and expertise about the application with us! 
+
+        <br><br>
+        
+          
+          <b>🗓 September 7: <a style="color: #009FC6;" href="https://www.codementor.io/events/cautionary-tales-in-ui-testing-f32mvgi7ae?ref=cm-newsletter">Cautionary Tales in UI Testing</a>
+          
+          </b>
+          
+          <br>
+
+          Is UI testing a necessary evil? Although catching bugs early on in the development process is an important use case, it can become an endless distraction if it’s not approached correctly. Learn how to avoid the drawbacks of UI testing.
+
+        <br><br>
+
+
+
+          <b>🗓 September 12: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-to-leverage-side-projects-f4oc2skj6o?ref=cm-newsletter">How to Leverage Side Projects to Level Up Your Tech Journey</a>
+          
+          </b><br>
+          
+          When it comes to standing out among a sea of applicants, there's no better way to do it than through hands-on experience. Side projects can boost your resume and increase your chances of getting hired. Level up your tech journey with a senior software engineer at Microsoft!
+
+
+          <br><br>
+          
+          <b>🗓 September 14: <a style="color: #009FC6;" href="https://www.codementor.io/events/expert-interviews-how-to-recession-proof-your-startup-f6ggcgh7u6?ref=cm-newsletter">Founders AMA: The Future of Hiring and Funding in Tech ⭐️</a>
+          
+          </b><br>
+          
+          What's next for startups after the surge in tech layoffs? Is it time to go all-in on a remote team? The CEO of startup accelerator Techstars shares new hiring strategies for founders and what devs should do to get hired.
+
+
+
+          <br><br>
+          
+          
+           <b>🗓 September 19: <a style="color: #009FC6;" href="https://nvda.ws/3BaJp5K"> NVIDIA GTC 2022 [External]</a></b><br>Want to stay ahead of the curve? Learn from some of the brightest minds in tech and get a glimpse of the cutting-edge technologies that can help you make an impact in your community.
+           
+          <br><br>
+          
+      
+          
+        </p>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+             
+      </div>
+      
+      <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://vpdae.com/redirect/3mi3kqnrz1cozjp37zxxvj5du1j" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src='https://www.vpdae.com/open/4564.gif?opens=1' width='1' height='1'>
+
+      <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/16616f91bd641058981fffcf6da6cd4e1ad61b3b66d72ae9ecd61d0053ff156c741cb00d1a55e81e457fb06a824e327b804af6fa17bd6e14d7c4df9d4a1f37cd.png" height="60" alt="Morning Brew" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">There’s a reason over 450K people read Emerging Tech Brew - the free 3-times-a-week email delivering the latest technology news impacting you and your world.
+        <br>
+        <img src='https://www.vpdae.com/open/4564.gif?opens=1' width='1' height='1'>
+        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i>Subscribe for free → </i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+    
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's top community posts</h2>
+      
+            <div class="post" style="margin-bottom:20px;">
+              
+
+
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 🧑🏻‍💻️ Coding: <a style="color: #009FC6;" href="https://www.codementor.io/@dillonmce/stop-throwing-away-errors-1wmu0n6mak?ref=newsletter"> Stop Throwing Away Errors </a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Errors can be frustrating, but they're a goldmine of information. Here's why you shouldn't overlook errors and how to think about debugging differently. 
+
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💻 Python: <a style="color: #009FC6;" href="https://www.codementor.io/@gerrardcooper14/why-is-python-a-perfect-choice-for-developing-fintech-products-1k0mrn3k8w?ref=newsletter"> Why is Python a Perfect Choice for Developing Fintech Products?
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Find out the top 5 reasons why Python is an ideal programming language for developing Fintech products and how you can use it to build your own innovative Fintech applications.
+
+</p>
+      </div>
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>📀 Data: <a style="color: #009FC6;" href="https://www.codementor.io/@fusionet24/create-your-own-magic-commands-in-databricks-1w8y1pdpqe?ref=newsletter"> Create your Own %Magic Commands in Databricks
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Ever wanted to build your own %Magic commands in Databricks? Well, here is a handy guide on how to achieve that with Databricks Runtime 11x+.
+
+      
+      </div>
+        
+
+
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=newsletter" title="Let me share this whole new world with you" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://www.codementor.io/?ref=newsletter" title="Codementor">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:20px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/db1898253eff67d16a982142fc69a115673be0f85aaaa2761f6cce1f2f03d6e0681c3a5ee4a2851f381fcd8f80800a0b08f4409178b01e601ede010b35aab4a2.png" height="30" alt="Codementor" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Where you can get <span style="color: #009FC6; text-decoration:none;"> instant coding help, learn programming by building projects</span>, and get your <span style="color: #009FC6; text-decoration:none;">code reviewed</span>.</p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.notion.so/codementor/Codementor-Newsletter-Media-Kit-e13af9362c4947a388e97982a29c03b4">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+              </div>
+            </div>
+          </div>
+          </body>
+        </html>  
