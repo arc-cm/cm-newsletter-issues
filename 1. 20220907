@@ -1,0 +1,275 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+
+<body>
+    <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    </div>
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;"> 
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        
+        <a href="https://www.codementor.io?ref=cm-newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">SWE at Microsoft is here to tell you how to stand out as a developer.</span>
+        
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - September 7th, 2022<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">TOGETHER WITH
+        </p>
+        
+        <a href="https://frontendmasters.com/courses/web-development-v3/" target="_blank" style="margin:0; text-decoration:none;" > 
+          
+         <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/b7ec5975900117c0694f4d8a07429d95bb5b53281323a9885fd1af60b31ad64dbf980c220c8d9c7f67c22c2fd9627daa569c4ba63e3982912b9c1b84d8fec93a.png" height="35" alt="Frontend Masters" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+         
+         </a>
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p><br>
+        
+    
+        
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> 
+        
+        To succeed in your next role, knowing which emerging startups are worth joining is important. 
+        
+        <br><br>
+        
+        But what are some questions devs should ask when deciding what's best for them? Culture fit? Runway?
+        
+        <br><br>
+        Tune in to hear Techstars CEO and author of "Trampled by Unicorns" Maelle Gavet's exclusive interview and Q&A on all you need to know to make the most of your career. 
+        
+        
+      <br><br>
+      🎟
+      <a style="color: #009FC6;" href="https://www.codementor.io/events/expert-interviews-how-to-recession-proof-your-startup-f6ggcgh7u6?ref=cm-newsletter"> Grab your spot.</a>
+        
+  
+
+        </p>
+        </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Upcoming online events </h2>
+      
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">Join us to hear from the CEO of Techstars, a SWE at Microsoft, and many more.<br><br>These are just some free online events that are coming up soon on Codementor. Can’t make it? You can still sign up and receive the recording after.
+
+
+          <br><br>
+          
+          <b>🗓 September 12: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-to-leverage-side-projects-f4oc2skj6o?ref=cm-newsletter">How to Leverage Side Projects to Level Up Your Tech Journey</a>
+          
+          </b>
+          
+          <br> Hands-on experience is the best way to make your resume shine and increase your chances of getting hired. Join us as we talk with a Microsoft software engineer about how to find the perfect side project to level up your tech journey!
+
+        <br><br>
+        
+          
+          <b>🗓 September 14: <a style="color: #009FC6;" href="https://www.codementor.io/events/expert-interviews-how-to-recession-proof-your-startup-f6ggcgh7u6?ref=cm-newsletter">🔥 Founders AMA: The Future of Hiring and Funding in Tech Testing 🔥</a>
+          
+          </b>
+          
+          <br>
+
+          Tech layoffs are on the rise – so what can you do to make sure you are well prepared? The CEO of startup accelerator Techstars shares the latest hiring trends for founders and what devs should do to find exciting new roles at startups.
+
+        <br><br>
+
+
+
+          <b>🗓 September 20: <a style="color: #009FC6;" href="https://www.codementor.io/events/first-project-with-Nodejs-f67t8pe07u?ref=cm-newsletter">Build Your First Project with Node.js</a>
+          
+          </b><br>
+          
+         New to coding? Learn the basics of Node.js by building your first project from scratch. This interactive workshop is perfect for beginner coders who want to learn the ropes of server-side programming.
+
+
+          <br><br>
+          
+          <b>🗓 October 19: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-to-receive-feedback-f8hk1rfgsw?ref=cm-newsletter"> How to Receive Feedback to Maximize Your Growth</a>
+          
+          </b><br>
+          
+          Whether it's from a manager or even just a colleague, feedback is essential to your growth as a developer. However, not all reviews are created equal. Learn how to understand evaluations without getting defensive, seek feedback, and how to use it all to your advantage.
+
+
+
+          <br><br>
+          
+      
+          
+        </p>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=cm-newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+             
+      </div>
+      
+      <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://frontendmasters.com/courses/web-development-v3/" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/b7ec5975900117c0694f4d8a07429d95bb5b53281323a9885fd1af60b31ad64dbf980c220c8d9c7f67c22c2fd9627daa569c4ba63e3982912b9c1b84d8fec93a.png" height="40" alt="Frontend Masters" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">Become a professional web dev today! Build your first website with Frontend Master’s new course: “Complete Intro to Web Development” 🧑🏻‍💻
+
+
+
+        <br>        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i> Get it for free → </i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+    
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's top community posts</h2>
+      
+            <div class="post" style="margin-bottom:20px;">
+              
+
+
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 🐍Python: <a style="color: #009FC6;" href="https://www.codementor.io/@projects196/01-machine-learning-with-the-linear-regression-1vq737cmem?ref=cm-newsletter">  Machine Learning with the Linear Regression </a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Ever wanted to predict stock prices or figure out whether a customer will churn? Here's how to tell the future by computing a linear regression model in Python.
+
+
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>🧑🏻‍💻Coding: <a style="color: #009FC6;" href="https://www.codementor.io/@qaisermughal/add-blazor-into-existing-asp-net-core-project-1w8bk3vzi9?ref=cm-newsletter"> Add Blazor into existing asp.net core project
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Are you curious about Blazor and want to know how it works? This step-by-step guide will show you how to integrate it into your asp.net application.
+
+
+</p>
+      </div>
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>✍🏼Javascript: <a style="color: #009FC6;" href="https://www.codementor.io/@victorgerardtemprano/the-wonder-of-turf-js-1uq2t9vhtb?ref=cm-newsletter"> The Wonder of Turf.js
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Doing spatial analysis without a library can be really difficult, especially if you're not familiar with all the different functions. Let Turf.js do the heavy lifting for you with these functions.
+
+      
+      </div>
+        
+
+
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=cm-newsletter" title="Let me share this whole new world with you" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://www.codementor.io/?ref=cm-newsletter" title="Codementor">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:20px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/db1898253eff67d16a982142fc69a115673be0f85aaaa2761f6cce1f2f03d6e0681c3a5ee4a2851f381fcd8f80800a0b08f4409178b01e601ede010b35aab4a2.png" height="30" alt="Codementor" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Where you can get <span style="color: #009FC6; text-decoration:none;"> instant coding help, learn programming by building projects</span>, and get your <span style="color: #009FC6; text-decoration:none;">code reviewed</span>.</p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.notion.so/codementor/Codementor-Newsletter-Media-Kit-e13af9362c4947a388e97982a29c03b4">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+              </div>
+            </div>
+          </div>
+          </body>
+        </html>  
