@@ -69,11 +69,16 @@
         
         <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;"> Create a Discord bot to send automated messages encrypted in Morse Code </span>
         
-        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - October 19th, 2022<br><br>
-        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">
-        </p>
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - October 26th, 2022<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;"> 
         
-      
+        TOGETHER WITH
+        <br>
+          
+        <a href=" https://www.jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work/?utm_source=arc.dev&utm_medium=sponsored-email&utm_campaign=jamf-now-newsletter&utm_content=2022-10-24_now" target="_blank" style="margin:0; text-decoration:none;" > 
+          
+         <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/29526709a12d714c9229d2f327f059a17e0d7e39de5dd8475f77b3a70958807784c6c99ae337b3f0eb302010f4bdb8391b346d60b92acf7043fa375a80039f1c.png" height="60" alt="Frontend Masters" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+        
          
          </a>
       </div>
@@ -85,12 +90,12 @@
       <div class="post" style="margin-bottom:20px;">
         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> 
         
-        Have you heard? Linus Torvalds, the creator of Linux, has announced that he will be accepting a pull request to bring Rust support in the 6.1 Linux Kernel. <br><br>
-        
+       
+Rust is on its seventh year as the most loved language with 87% of developers saying they want to continue using it.
 
-        
-        
-       📧 <a style="color: #009FC6;" href="https://lkml.iu.edu/hypermail/linux/kernel/2210.0/00685.html">Read the announcement written by Linus himself</a>.
+<br><br>
+
+It is then closely followed by Python and TypeScript as most wanted – according to <a style="color: #009FC6;" href="https://survey.stackoverflow.co/2022/">Stack OverFlow’s Annual Developer Survey!</a>
         
   
 
@@ -105,35 +110,28 @@
       
       <div class="post" style="margin-bottom:20px;">
         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">
+          
+          This week, you'll hear from senior software engineers about micro front-end architecture, doing mentorship the right way as a developer, and creating a great portfolio site. Plus, sign up to join next month’s remote engineering job fair featuring hot hiring companies and popular tech content creators from Latin America. <br><br>
+          
+          <b>🗓 November 7: <a style="color: #009FC6;" href="https://www.codementor.io/events/create-a-discord-bot-that-automates-messages-with-nodejs-fiyu0kb5bj?ref=cm-newsletter"> Create a Discord Bot that Automates Messages with Node.js
+          
+          </b>
+          
+          <br> Looking to create your first project? Jumpstart your portfolio creation by building an easy discord bot with Node.js that automates and sends messages. 
+          
+          <br><br>
+
+
+
         
-          <b>🗓 October 24: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-to-craft-your-perfect-portfolio-faft73qso7?ref=cm-newsletter">How to Craft Your Perfect Developer Portfolio Website
+          <b>🗓 November 17: <a style="color: #009FC6;" href="https://www.codementor.io/events/remote-front-end-job-fair-latam-fl1lxq8jbp?ref=cm-newsletter">Remote Engineering Job Fair: Latin America
 </a>
           
           </b>
           
-          <br> Whether you’re a beginner or an experienced developer, your portfolio is one of the most important tools in your job search arsenal. In this talk, you'll get expert tips to stand out from the rest with an effective portfolio website.
+          <br> Last month’s job fair was a huge success, with 1200+ devs joining. To keep the momentum going, we’re hosting our next one with a new theme: Latin America! We’ve invited 9 global speakers and 20 exciting companies hiring remote devs in LatAm to join. This event combines technical talks, interview prep sessions, company pitches, and a virtual meet & greet! 
 
 
- 
- 
-
-        <br><br>
-        
-          <b>🗓 October 27: <a style="color: #009FC6;" href="https://www.codementor.io/events/module-federation-for-distributed-front-ends-fe0iewsbit?ref=cm-newsletter">Module Federation for Distributed Frontends
-</a>
-          
-          </b>
-          
-          <br> The idea behind Micro front-ends isn’t new—but it’s revolutionizing front-end development. Architecting micro frontends can be challenging, and even though there is no single “best” framework, Oleksander will live demo a new method of sharing code. 
-
-
-        <br><br>
-
-
-
-          <b>🗓 November 7: <a style="color: #009FC6;" href="https://www.codementor.io/events/create-a-discord-bot-that-automates-messages-with-nodejs-fiyu0kb5bj?ref=cm-newsletter"> Create a Discord Bot that Automates Messages with Node.js</a>
-          
-          </b><br>Architecting micro frontends can be tough, but Module Federation has made it easier than ever. Join us to explore how to enable independent release flows in modern web applications.
 
           
           <br><br>
@@ -141,7 +139,8 @@
           
           <b>🗓 November 18: <a style="color: #009FC6;" href="https://www.codementor.io/events/engineering-mentorship-fh2la75gc7?ref=cm-newsletter"> Engineering Mentorship - Why and How for Both Sides</a>
           
-          </b><br>Mentorship connects talented junior developers with senior engineering leaders. With intentional mentoring, you can develop your expertise and leadership skills. This talk will cover the approach to coaching and mentorship of engineers with and without a company framework.
+          </b><br>Mentorship is an integral part of growing your career, especially if you’re working in tech. But what questions should youask your mentor, and what can mentors do to ensure you’re going in the right direction?
+
 
           
           <br><br>
@@ -156,6 +155,40 @@
              
       </div>
       
+  
+      
+      <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://www.jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work/?utm_source=arc.dev&utm_medium=sponsored-email&utm_campaign=jamf-now-newsletter&utm_content=2022-10-24_now" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/29526709a12d714c9229d2f327f059a17e0d7e39de5dd8475f77b3a70958807784c6c99ae337b3f0eb302010f4bdb8391b346d60b92acf7043fa375a80039f1c.png" height="60" alt="jamf" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">
+        
+    
+Trying to configure devices without a device management solution can take a surprising amount of time and effort. With Jamf Now, you can quickly configure settings on your Apple devices so you spend time working with your technology, not on making it work.
+        
+
+
+
+
+        <br>        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i> Manage Your First 3 Devices for Free.→ </i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
       
       <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
@@ -163,7 +196,6 @@
       <div style="border: 0px solid #e6e6e6; padding: 20px;">
 
 
-    
       
       
       <div class="post" style="margin-bottom:00px;"> 
@@ -184,10 +216,11 @@
 
 
         
-         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 🧑🏻‍💻Java: <a style="color: #009FC6;" href="https://www.codementor.io/@andreisaizu744/java-interview-questions-series-streams-1y2hhzsfbz?ref=cm-newsletter">Java Interview Questions (series) - Streams
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 🧑🏻‍Python: <a style="color: #009FC6;" href="https://www.codementor.io/@matthewtejo/quick-tips-to-make-your-python-better-right-away-1yf81zedra?Ref=cm-newsletter">Quick Tips to Make Your Python Better Right Away
+
  </a></strong></p>
 
-        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Another prominent new feature coming with Java 8 is the Stream functionality. See how the classes in its enclosing package play and understand how they work.
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;">Beautify your Python to make your code cleaner and more organized with these quick tips! 
 
 
 
@@ -195,14 +228,17 @@
       </div>
       
       <div class="post" style="margin-bottom:20px;">
-                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>🪨 RocksDB: <a style="color: #009FC6;" href="https://www.codementor.io/@pknerd/getting-started-with-rocksdb-and-python-1xslf9qqsu?ref=cm-newsletter"> Getting started with Rocksdb and Python
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>📱 Android: <a style="color: #009FC6;" href="https://www.codementor.io/@abdurrahmaanj/android-s-lock-screen-pattern-in-pygame-1y12ejsg3s?ref=cm-newsletter"> 
+Android's Lock Screen Pattern In Pygame
+
                  
                  
 
 
 </a></strong></p>
 
-        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> The possibilities of RocksDB usage are endless. Developed by Facebook, this database is a fork of Google’s LevelDB optimized to exploit many CPU cores. Learn RocksDB’s primary usage and how to use it in your Python applications.
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> If you’re an Android user, here’s a fun project to start today. One way of mocking UIs is to implement an Android lock pattern in Pygame. Here’s how. 
+
 
 </p>
  </div>
