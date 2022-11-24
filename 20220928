@@ -1,0 +1,277 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+
+<body>
+    <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    </div>
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;"> 
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        
+        <a href="https://www.codementor.io?ref=cm-newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">Get free career advice, meet founders from startups hiring right now, and apply for open positions remotely! </span>
+        
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - September 28th, 2022<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">TOGETHER WITH
+        </p>
+        
+        <a href="https://links.swapstack.co/tqt" target="_blank" style="margin:0; text-decoration:none;" > 
+          
+         <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/737c9cac48907d6757810117cff9ad262a76cf32bcbdc36573b7f864dd72fadbfc09582003fd8cfce9016f18b05e53c3de0276e6c0b5e53fb7d993589febf822.png" height="50" alt="Frontend Masters" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+         
+         </a>
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p><br>
+        
+    
+        
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> 
+        
+        Our Startup Spotlight is happening TODAY (10am PDT / 1pm EDT)! It’s not too late to RSVP to connect with some of the hottest up-and-coming startups, backed by Techstars and Y Combinator.
+
+
+<br><br>
+See you soon!
+
+        
+       <br><br>
+      🎟 
+      <a style="color: #009FC6;" href="https://www.codementor.io/events/remote-engineering-job-fair-startup-spotlight-fdynfzxgin?ref=cm-newsletter">Get your free ticket now
+</a>
+        
+  
+
+        </p>
+        </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Upcoming online events </h2>
+      
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">This week, meet startups hiring remote developers at our Startup Spotlight. You’ll also learn how to shift your mindset when it comes to code with the founder and CEO of Sema. And learn how to take advantage of code reviews the right way.
+
+
+        <br><br>
+        
+          <b>🗓 September 28: <a style="color: #009FC6;" href="https://www.codementor.io/events/remote-engineering-job-fair-startup-spotlight-fdynfzxgin?ref=cm-newsletter"> 🔥Remote Engineering Job Fair: Startup Spotlight 🔥️️</a>
+          
+          </b>
+          
+          <br> Looking for a new, exciting opportunity in the tech world? Then you won't want to miss Startup Spotlight. This is your chance to meet founders from startups all over the world and learn about the technologies they're using, get career advice from technical recruiters, and apply to their open positions all under one roof. 
+ 
+
+        <br><br>
+        
+          <b>🗓 September 28: <a style="color: #009FC6;" href="https://www.codementor.io/events/como-ser-un-programador-auto-didacta-fbxvzdcs61?ref=cm-newsletter">[Event in Spanish] Cómo Ser un Programador Auto-Didacta: Una Tendencia en Alza</a>
+          
+          </b>
+          
+          <br> On our first Spanish event, we'll take an in-depth look into how and why developers learn on their own and how to get started on your journey to becoming one. This event is perfect for beginners who are looking to get into programming or experienced developers who want to sharpen their skills.
+        <br><br>
+
+
+
+          <b>🗓 October 6: <a style="color: #009FC6;" href="https://www.codementor.io/events/code-is-a-craft-fep415nu40?ref=cm-newsletter">Code Is a Craft, Not a Competition – And Why It Matters</a>
+          
+          </b><br>When you start seeing code as something that can be perfected with time and practice rather than a numbers game, you open yourself up to a world of possibilities. Join us to learn how to make a positive difference with actionable advice from the founder and CEO of Sema.
+          <br><br>
+          
+          <b>🗓 October 18: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-to-receive-feedback-f8hk1rfgsw?ref=cm-newsletter">How to Receive Feedback to Maximize Your Growth</a>
+          
+          </b><br>
+          
+        Whether you’re a beginner just starting out or a seasoned pro, receiving feedback can help you identify areas where you need to improve as a developer. Learn how code review can help you learn from someone else’s perspective to continue growing.
+
+
+          <br><br>
+          
+            <b>🗓 October 27: <a style="color: #009FC6;" href="https://www.codementor.io/events/module-federation-for-distributed-front-ends-fe0iewsbit?ref=cm-newsletter">Module Federation for Distributed Frontends</a>
+          
+          </b><br>Module Federation allows developers to break an application into smaller modules that can be loaded on demand. This makes it easier to develop, test, and deploy large applications. In this session, you'll learn about micro frontends and how o enable them with Module Federation.
+
+          
+  
+      
+          
+        </p>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=cm-newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+             
+      </div>
+      
+      <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://links.swapstack.co/tqt" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/737c9cac48907d6757810117cff9ad262a76cf32bcbdc36573b7f864dd72fadbfc09582003fd8cfce9016f18b05e53c3de0276e6c0b5e53fb7d993589febf822.png" height="40" alt="Frontend Masters" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">
+        
+    
+The daily email newsletter covering the latest news from Wall St. to Silicon Valley. Informative, witty, and everything you need to start your day        
+        
+
+
+
+
+        <br>        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i> Subscribe to the weekly newsletter → </i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+    
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's top community posts</h2>
+      
+            <div class="post" style="margin-bottom:20px;">
+              
+
+
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 💻Golang: <a style="color: #009FC6;" href="https://www.codementor.io/@george.onwuasoanya/fan-in-multiplexing-pattern-explained-in-go-a-fastest-horse-analogy-1wvmtg6fu6?ref=cm-newsletter">  Fan-in Multiplexing Pattern Explained With Golang - A fastest horse analogy. </a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> When implemented correctly, multiplexing with the Fan-in pattern can provide an efficient and effective way to process data. Here's how to do it in Golang with a fun analogy.
+
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>🧑🏻‍💻Javascript: <a style="color: #009FC6;" href="https://www.codementor.io/@andreisaizu744/java-interview-questions-series-lambda-expressions-1xdfv3il48?ref=cm-newsletter"> Java Interview Questions (series) - Lambda expressions
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> With Lambda expressions, you can avoid creating anonymous classes, which makes your code more efficient and easier to manage. Learn more about its relationship with Functional Interfaces and Streams with these implementation examples.
+
+</p>
+ </div>
+      
+            </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>✍🏼Coding: <a style="color: #009FC6;" href="https://www.codementor.io/@abdurrahmaanj/how-to-build-a-simple-cookie-banner-in-10-lines-of-html-js-1vm8rkfgv8?ref=cm-newsletterr">  How To Build a Simple Cookie Banner in 10 Lines of HTML/Js
+
+
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;"> Building a cookie banner couldn't get easier with this guide. Help users understand what cookies your site is using and why with these simple steps.
+
+
+</p>
+ </div>
+    
+        
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=cm-newsletter" title="Let me share this whole new world with you" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://www.codementor.io/?ref=cm-newsletter" title="Codementor">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:20px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/db1898253eff67d16a982142fc69a115673be0f85aaaa2761f6cce1f2f03d6e0681c3a5ee4a2851f381fcd8f80800a0b08f4409178b01e601ede010b35aab4a2.png" height="30" alt="Codementor" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Where you can get <span style="color: #009FC6; text-decoration:none;"> instant coding help, learn programming by building projects</span>, and get your <span style="color: #009FC6; text-decoration:none;">code reviewed</span>.</p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.notion.so/codementor/Codementor-Newsletter-Media-Kit-e13af9362c4947a388e97982a29c03b4">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+              </div>
+            </div>
+          </div>
+          </body>
+        </html>  
