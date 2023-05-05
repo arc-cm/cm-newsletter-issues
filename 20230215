@@ -1,0 +1,243 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+<body>
+    <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    </div>
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;"> 
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        
+        <a href="https://www.codementor.io?ref=cm-newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;"></span>
+        
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - February 15th, 2023<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;"> 
+        
+        TOGETHER WITH
+        <br>
+          
+        <a href="https://www.crowdsec.net/?mtm_campaign=codementor-feb-15&mtm_source=newsletter" target="_blank" style="margin:0; text-decoration:none;" > 
+          
+         <img src="https://ucarecdn.com/aaf91b3b-2091-4145-aa77-e2d7356cdeac/" height="60" alt="CrowdSec" border="0" style="margin:6px 10px; padding:10px;img-align: center;">
+         
+         </a>
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p><br>
+        
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> 
+        
+       
+The new ChatGPT-powered Bing browser has been revealed by Microsoft, while Google is preparing to release Bard. The race is on for tech companies to produce innovative generative AI tools that are predicted to be the foundation for search engines, creative work, research, education, and more. <br><br>
+
+But to leverage AI, you need to know how to "talk" to machines. As such, prompt engineering has emerged as a new industry, helping people communicate with machines to achieve their goals.<br><br>
+          
+          👉🏼 <a style="color: #009FC6;" href="https://archive.ph/xm3Ck">Read on for insights on AI and how to talk to one</a>
+
+        </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Upcoming online events </h2>
+      
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">
+          
+                    Here are the community events coming up soon. Sign up even if you can't make it to the live event; we'll send you the recording afterwards.<br><br>
+          
+         
+          <b>🗓 February 16: <a style="color: #009FC6;" href="https://www.codementor.io/events/what-is-ad-tech-and-why-ads-are-essential-to-our-society-ga4wrpf2pf?ref=cm-newsletter"> What is Ad Tech and Why Ads are Essential to Our Society?
+</a></b>
+         <br>Ads can be annoying, but they serve a purpose. Jane will explore the importance of advertising today, including contextual ads and their technology, major players, and user interaction.
+          <br><br>
+          <b>🗓 February 17: <a style="color: #009FC6;" href="https://www.codementor.io/events/creating-spectacular-tv-apps-with-flutter-g8vhx0lnwv?ref=cm-newsletter"> Creating Spectacular TV Apps with Flutter</a></b>
+          <br> This event covers running Flutter apps on TV, including AppleTV and Tizen, and how to overcome any issues that may arise. It is suitable for developers looking to expand their app distribution and those interested in using Flutter on non-traditional devices.
+          <br><br>
+          <b>🗓 February 17: <a style="color: #009FC6;" href="https://www.codementor.io/events/what-is-python-writing-our-first-program-gcfe1e0fsc?ref=cm-newsletter"> What is Python?
+</a></b>
+          <br> Python is a popular language for new programmers as the software industry grows. We'll explore its applications and conclude with a Python programming demo.
+          <br><br>
+          <b>🗓 February 18: <a style="color: #009FC6;" href="https://www.codementor.io/events/future-of-ai-bots-chat-voice-and-sign-g8y3dvkpme?ref=cm-newsletter">Future of AI bots - Chat and Voice</a>
+              </b>
+          <br>Dive into the world of chatbots and voicebots and discuss their present state, as well as their potential future developments. Pavan will also explore the newest open-source technologies used in advanced bots.
+          <br><br>
+          <b>🗓 March 9: <a style="color: #009FC6;" href="https://www.codementor.io/events/remote-engineering-global-job-fair-g9e9l340bp?ref=cm-newsletter">Remote Engineering Global Job Fair</a>
+              </b>
+          <br>Connect directly with 25+ tech companies actively hiring remote developers worldwide. In addition to the company pitches, there will be a full day of technical and career talks that you won’t want to miss.
+          <br><br>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=cm-newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+             
+      </div>
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://www.crowdsec.net/?mtm_campaign=codementor-feb-15&mtm_source=newsletter" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://ucarecdn.com/aaf91b3b-2091-4145-aa77-e2d7356cdeac/" height="60" alt="jamf" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">
+        
+Individuals & organizations are acting alone to protect themselves in this cyber war, whereas hackers have banded together to become stronger. At CrowdSec we are fighting back with a solution that outnumbers the hackers through a collaborative & open-source cybersecurity effort. 
+
+        <br>        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i> Join the crowd & make the Internet safer  →</i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 0px solid #e6e6e6; padding: 20px;">
+
+
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: px;">
+        
+  
+</div>
+      
+       <!--<hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">-->
+    
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's top community posts</h2>
+      
+            <div class="post" style="margin-bottom:20px;">
+              
+
+
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 🤖 ML: <a style="color: #009FC6;" href="https://www.codementor.io/@trehleb/interactive-machine-learning-experiments-1699vlis90?ref=cm-newsletter">Interactive Machine Learning Experiments
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;">This is a collection of interactive machine learning experiments. Each experiment consists of Jupyter/Colab notebook and demo page to see a model in action right in your browser. 
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>📝 Swift: <a style="color: #009FC6;" href="https://www.codementor.io/@joemasilotti/better-unit-testing-with-swift-15tf93n9gc?ref=cm-newsletter"> 
+Better Unit Testing with Swift
+</a></strong></p>
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;">Want to write cleaner unit tests? The article provides an overview of unit testing with XCTest framework in Swift. The author emphasizes the importance of dependency injection (DI) and its implementation in Swift with the help of protocols.
+</p>
+ </div>
+            </div>
+ </div>
+    
+        
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=cm-newsletter" title="Click here for more articles" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 20px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://www.codementor.io/?ref=cm-newsletter" title="Codementor">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:20px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/db1898253eff67d16a982142fc69a115673be0f85aaaa2761f6cce1f2f03d6e0681c3a5ee4a2851f381fcd8f80800a0b08f4409178b01e601ede010b35aab4a2.png" height="30" alt="Codementor" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Where you can get <span style="color: #009FC6; text-decoration:none;"> instant coding help, learn programming by building projects</span>, and get your <span style="color: #009FC6; text-decoration:none;">code reviewed</span>.</p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.notion.so/codementor/Codementor-Newsletter-Media-Kit-e13af9362c4947a388e97982a29c03b4">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+              </div>
+            </div>
+          </div>
+          </body>
+        </html>  
