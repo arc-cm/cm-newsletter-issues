@@ -1,0 +1,248 @@
+<html>
+<head>
+    <style style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+      @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+      @media only screen and (max-width: 480px) {
+        #sponsor_text{width:100%; min-width:180px; }
+        #sponsor_image{display:none;}
+      }
+      .preheader { 
+        display:none !important; 
+        visibility:hidden;
+        opacity:0; 
+        color:transparent; 
+        height:0; 
+        width:0; 
+        
+      }
+
+      .header__logo {
+        max-height: 16px;
+        width: auto;
+        height: auto;
+        margin-bottom: 8px;
+      }
+      #footer_banner .logo {
+        display: flex;
+      }
+      #footer_banner .logo__codementor {
+        flex: 1;
+        text-align: right;
+      }
+      #footer_banner .logo__codementorx {
+        flex: 1;
+        text-align: left;
+      }
+      #footer_banner .logo__codementor img {
+        max-height: 18px;
+        width: auto;
+        height: auto;
+      }
+      #footer_banner .logo__codementorx img {
+        max-height: 15px;
+        width: auto;
+        height: auto;
+      }
+
+      @media(max-width: 640px) {
+        #footer_banner .logo {
+          display: block;
+        }
+        #footer_banner .logo__codementor {
+          text-align: center;
+        }
+        #footer_banner .logo__codementorx {
+          text-align: center;
+        }
+      }
+    </style>
+    
+  </head>
+
+<body>
+   <!-- PreHeader -->
+    <span class="preheader" style="display: none !important; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+    </span>
+
+    <!--<div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">-->
+    <!--</div>-->
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <!--<div style="display: none; max-height: 0px; overflow: hidden;"> -->
+    <!--  &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;-->
+    <!--</div>-->
+    
+  
+    <div id="container" style="margin:0; padding:0; width: 86%; max-width: 560px; margin: 30px auto; color: #333;">
+      <!-- Header -->
+      <div id="header" style="text-align: center; margin:30px 0px;">
+        
+        <a href="https://www.codementor.io/?ref=cm-newsletter" target="_blank" style="margin:0; text-decoration:none;" >
+          <img class='header__logo' src="https://s3.amazonaws.com/codementor_content/logo_cm_horizontal_blue.png" alt="Codementor" border="0" width='120' />
+        </a>
+        
+        <span class="preheader" style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;"></span>
+        
+        <p style="margin:4px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;">Weekly Newsletter - March 22nd, 2023<br><br>
+        <p style="margin:4px; font-size:10px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.2; font-weight:bold; color:#003648;"> 
+        
+        TOGETHER WITH
+        <br>
+          
+        <a href="https://click.postapex.com/Eb1vyRz79p1FhXTHkjPAiDnTLO9" target="_blank" style="margin:0; text-decoration:none;" > 
+          
+         <img src="https://ucarecdn.com/8ef6880b-9b75-430b-a919-54c5a47cbf5a/" width="25%" alt="Refind" border="0" style="margin:0px 10px; padding:5px;img-align: center;">
+         
+         </a>
+      </div>
+
+      <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Hey [%first_name | there%],</p><br>
+        
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> 
+        
+       
+Ready to level up your CSS game? Learn from Simon, a CSS veteran who has been coding for over 24 years. Check out the top 5 tips he shares on Dev.to and elevate your CSS skills today including:
+<br><br>
+
+• The box model<br>
+• Margins cancel each other out<br>
+• Layouts<br>
+• Use tables for styling tables<br>
+• Em’s. Rem’s, and Px<br>
+<br>
+👉🏼 <a style="color: #009FC6;" href="https://dev.to/sp90/5-tips-to-become-better-at-css-3d24">Read on to boost your CSS knowledge</a>
+        </p>
+        </div>
+      
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Upcoming online events </h2>
+      
+    
+      
+      <div class="post" style="margin-bottom:20px;">
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;">
+          
+          Here are the community events coming up soon. Sign up even if you can't make it to the live event; we'll send you the recording afterwards.
+
+ <br><br>
+          
+          <b>🗓 March 22: <a style="color: #009FC6;" href="https://www.codementor.io/events/remote-work-is-here-to-stay-and-what-s-next-ghj7k9p26m?ref=cm-newsletter">Remote Work is Here to Stay - and What's Next?</a>
+              </b>
+          <br> At <b>GitLab Data</b>, there's no such thing as fixed working hours, timesheets, and offices. With 1600 team members across 56 countries, Radovan will share remote case studies and strategies in the remote work space.
+          <br><br>
+          <b>🗓 March 22: <a style="color: #009FC6;" href="https://www.codementor.io/events/a-change-of-mindset-from-junior-to-senior-gg045t6l96?ref=cm-newsletter">A Change of Mindset from Junior to Senior</a>
+              </b>
+          <br>Join Alexander, Senior Engineer at FAANG, to learn about how to approach problems in different stages of your career. This talk is suitable for junior developers, senior developers, and everyone in between.
+          <br><br>
+          <b>🗓 March 22: <a style="color: #009FC6;" href="https://www.codementor.io/events/modern-data-pipelines-in-adtech-life-in-the-trenches-g8obcigeu6?ref=cm-newsletter">Modern Data Pipelines in AdTech—Life in the Trenches</a></b> 
+          <br>In this talk, you will learn how to use modern data pipelines for reporting and analytics, as well as the case of historical data reprocessing in AdTech. We’ll dive deeper into each case, exploring the problem itself, implementation, challenges, and future improvements.
+          <br><br>
+          <b>🗓 March 24: <a style="color: #009FC6;" href="https://www.codementor.io/events/how-developers-can-collaborate-with-data-analysts-gksm5r8phj?ref=cm-newsletter">How Do Developers and Data Analysts Collaborate?</a>
+              </b>
+          <br>To help developers and data analysts work together, systems and structures can be created to streamline their collaboration. This talk will include why devs and analysts should collaborate and some examples of analytical systems
+          <br><br>
+          <b>🗓 March 28: <a style="color: #009FC6;" href="https://www.codementor.io/events/ml-in-distributed-systems-gjwtnlu77u?ref=cm-newsletter">Machine Learning in Distributed Systems</a>
+              </b>
+          <br>Waiting for a model to be trained is a luxury we don’t have in today’s ever changing world. Using new technologies to optimize the model training is key to creating production level models quickly. Join this talk to learn about training models faster.
+        </p>
+        <!--call to action-->
+        <div>
+      <a href="https://www.codementor.io/events/upcoming?ref=cm-newsletter" style=" text-decoration: none; font-weight: bold;color: #343334;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Check out more events here → </i></p></a>  
+
+       <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+      
+      <!--<h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">Our favorite tools</h2>-->
+      
+      <div style="border: 1px solid #e6e6e6; padding: 20px;">
+      <a href="https://click.postapex.com/Eb1vyRz79p1FhXTHkjPAiDnTLO9" style=" text-decoration: none; color: #343334;" target="_blank">
+    <div style="text-align:center;">
+      <span style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; color:#b8b8b8;">SPONSORED</span><br>
+
+      <img src="https://ucarecdn.com/128b795c-4c1e-424b-a7aa-dd9c0559b1f1/" width="100%" alt="Refind" border="0" style="margin:6px 0px; padding:5px;img-align: center;">
+      
+      
+      <div class="post" style="margin-bottom:00px;"> 
+        
+        <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; text-align: center; margin-bottom: 4px;">
+        
+Every day Refind picks 5 articles that make you smarter, tailored to your interests. Loved by 100k+ curious minds.
+
+        <br>        </p>
+        <!--call to action-->
+        
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 0px; text-align: center; "><i> Subscribe to get 5 links / day</i></p>
+    </div>
+    </div>
+  </a>
+</div>
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+      
+
+      
+      <h2 style="font-size:18px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;">This week's standout posts</h2>
+      
+            <div class="post" style="margin-bottom:20px;">
+              
+
+
+        
+         <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"> <strong> 🛠 Front-end: <a tyle="color: #009FC6;" href="https://www.codementor.io/@sidverma32/the-power-of-idempotency-understanding-its-significance-22zkyc7ci1?ref=cm-newsletter">The Power of Idempotency: Understanding its Significance
+</a></strong></p>
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;">Idempotent operations are an important concept in computer science, particularly in the field of distributed systems. In this blog post, we’ll explore what idempotent operations are, why they’re important, and how to implement them in code.
+</p>
+      </div>
+      
+      <div class="post" style="margin-bottom:20px;">
+                 <p style="margin:4px 0; font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0; margin-bottom: 4px;"><strong>💪🏼 React.js: <a style="color: #009FC6;" href="https://www.codementor.io/@mohit21gojs/simple-introduction-to-unit-testing-in-react-js-in-plain-english-medium-22k10u8imt?ref=cm-newsletter">Simple Introduction to Unit Testing in React.js in Plain English
+</a></strong></p>
+
+        <p style="font-size:14px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; margin:0; padding:0;">When writing code, it’s important for each small part of the code to work correctly before we combine all the parts together to make the complete program. This is where unit testing comes in. Read on to learn how unit testing works in React.js. 
+
+</p>
+ </div>
+      
+            </div>
+      
+ </div>
+    
+        
+      <!--call to action-->
+      <a href="https://www.codementor.io/blog?ref=cm-newsletter" title="Let me share this whole new world with you" style=" text-decoration: none; font-weight: bold; letter-spacing: 0.5; color: #009FC6;" target="_blank">
+        <p style="color: #009FC6; cursor: pointer; font-family: 'Open Sans', Arial, sans-serif; font-size: 16px; padding: 8px 40px; text-align: center; "><i>Click here for more articles </i>🤓</p></a>   
+      
+      
+      <hr style="background-color:#e6e6e6; height: 1px; border: 0; margin:20px 0;">
+
+     
+
+            <!-- This is footer banner -->
+            <a style="color: #009FC6; text-decoration:none;" href="https://www.codementor.io/?ref=cm-newsletter" title="Codementor">
+            <div id="footer_banner" style="background-color:#F9F9F9; padding:20px; text-align: center; margin:30px 0px;"> 
+
+
+                <img src="https://legacy-image-prod.s3.amazonaws.com/uploads/db1898253eff67d16a982142fc69a115673be0f85aaaa2761f6cce1f2f03d6e0681c3a5ee4a2851f381fcd8f80800a0b08f4409178b01e601ede010b35aab4a2.png" height="30" alt="Codementor" border="0" style="margin:6px 10px; padding:0;">
+              
+
+              <p style="margin:6px 0px 0px 0px; font-size:13px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6; color:#666;font-weight: bold">Where you can get <span style="color: #009FC6; text-decoration:none;"> instant coding help, learn programming by building projects</span>, and get your <span style="color: #009FC6; text-decoration:none;">code reviewed</span>.</p>
+
+            </div>
+            </a>
+            <!-- This is footer -->
+            <div style="margin-top: 20px;">
+              <p style="font-size:12px; font-family:'Open Sans',arial,helvetica,sans-serif; line-height:1.6;  text-align:center; color:#b8b8b8;">
+                Interested in <a style="color:#b8b8b8;" href="https://www.notion.so/codementor/Codementor-Newsletter-Media-Kit-e13af9362c4947a388e97982a29c03b4">sponsoring us</a>?<br>
+                555 Bryant Street, #866, Palo Alto, CA 94301, USA<br>
+                
+               <a style="color:#b8b8b8; text-decoration: underline;" title="Are you sure you don't want to hear from us?" href="[Unsubscribe]"> Unsubscribe here</a>, but maybe follow us on <a style="color:#b8b8b8;" href="https://twitter.com/CodementorIO">Twitter</a>?
+              </p>
+              </div>
+            </div>
+          </div>
+          </body>
+        </html>  
